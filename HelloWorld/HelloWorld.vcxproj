@@ -127,6 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="chp0ex0-1.cpp" />
+    <ClCompile Include="chp0ex0-10.cpp" />
+    <ClCompile Include="chp0ex0-2.cpp" />
+    <ClCompile Include="chp0ex0-4.cpp" />
+    <ClCompile Include="chp0ex0-5.cpp" />
+    <ClCompile Include="chp0ex0-6.cpp" />
+    <ClCompile Include="chp0ex0-7.cpp" />
+    <ClCompile Include="chp0ex0-8.cpp" />
     <ClCompile Include="hello.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
